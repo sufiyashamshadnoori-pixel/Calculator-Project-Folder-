@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-color: #e4ccc7;
+}
+#screen{
+    background-color: #f9fbfc;
+    height: 15vmin;
+    width: 52vmin;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-right: 5px;
+    margin-top: 10px;
+    margin-left: 263px; 
+    text-align:end;
+}
+#container{
+    height: 60vmin;
+    width: 60vmin;
+    margin-top: 10px;
+    margin-left: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1vmin;
+}
+.num{
+    height: 12vmin;
+    width: 12vmin;
+   
+}
+.count{
+    height: 12vmin;
+    width: 12vmin;
+}
